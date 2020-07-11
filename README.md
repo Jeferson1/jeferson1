@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Jeferson Silva 🚀
 
 ### Welcome to my spaceship

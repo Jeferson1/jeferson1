@@ -4,7 +4,7 @@
 
 ### Welcome to my spaceship
 
-My name is **Jeferson** and I'm a front-end web developer
+My name is **Jeferson** and I'm a fullstack web developer
 
 Would you like to find me?
 

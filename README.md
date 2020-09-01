@@ -2,7 +2,7 @@
 
 ### Hi everyone 🚀
 
-My name is **Jeferson** and I'm a fullstack web developer Student 💻
+My name is **Jeferson** and I'm a fullstack web developer student 💻
 
 ![image](https://github.com/Jeferson1/Jeferson1/blob/master/dino.gif)
 

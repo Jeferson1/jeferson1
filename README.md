@@ -2,7 +2,7 @@
 
 ### Hi everyone 🚀
 
-My name is **Jeferson** and I'm a Front-end web developer student 💻
+My name is **Jeferson** and I'm a Web developer student 💻
 
 ![image](https://github.com/Jeferson1/Jeferson1/blob/master/dino.gif)
 

@@ -4,8 +4,6 @@
 
 💻 My name is **Jeferson** 
 
-![image](https://github.com/Jeferson1/Jeferson1/blob/master/dino.gif)
-
 Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-jefersonsilva/)](https://www.linkedin.com/in/-jefersonsilva/)

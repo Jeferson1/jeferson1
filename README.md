@@ -25,8 +25,6 @@ fast using scalable solutions.
        "OtherTools": { "Git", "Github", "Figma" }
      }
    }
-
-   export default CurrentProgramming;
 ```
 
 ## Would you like to find me? <img width="40" src="https://em-content.zobj.net/source/joypixels-animations/366/flying-saucer_1f6f8.gif">

@@ -5,11 +5,13 @@
 <img align="right" src="https://i.pinimg.com/originals/10/6b/ca/106bca51cad5526e62cc6e3d8502eefd.gif" width="35%" /><br>
 
 <pre>
+   
 ┌──┤ DIRECTORY ├─────---────▰▰▰
 │
 ├─▣ ~/earth/south\ america/Brazil/SP/Sao\ Paulo
 │
 └───────────────────────────────▰▰▰
+   
 </pre>
 
 ```javascript

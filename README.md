@@ -1,6 +1,7 @@
-<strong align="left" font-size="24px" display="inline-block"> Hi, I'm Jef :wave: </strong>
 
 <div display="inline" align="right">
+   
+<strong align="left" font-size="24px" display="inline-block"> Hi, I'm Jef :wave: </strong>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jeferson.silva9191&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=jeferson.silva9191&redirect=true)
 

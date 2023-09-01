@@ -4,7 +4,8 @@
 
 <pre>
 
-I work as a software developer to help companies to grow up fast using scalable solutions.
+I work as a software developer to help companies to grow up 
+fast using scalable solutions.
    
 ┌──┤ DIRECTORY ├─────---────▰▰▰
 │

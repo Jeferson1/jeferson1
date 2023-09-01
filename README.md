@@ -27,7 +27,7 @@ fast using scalable solutions.
    }
 ```
 
-## Would you like to find me? 🛸
+## Would you like to find me? <img width="35" src="https://em-content.zobj.net/source/joypixels-animations/366/flying-saucer_1f6f8.gif">
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jefersonsilva01/)
 

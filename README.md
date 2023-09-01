@@ -3,6 +3,8 @@
 <img align="right" src="https://i.pinimg.com/originals/85/df/5e/85df5e8f0fd316258a6ae98ec9b82ea8.gif" width="25%" />
 
 <pre>
+
+I work as a software developer to help companies to grow up fast using scalable solutions.
    
 ┌──┤ DIRECTORY ├─────---────▰▰▰
 │

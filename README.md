@@ -1,10 +1,10 @@
 <h1 align="left"> Hello there, I'm Jef <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35"><h1>
 
-<div align="right" heigth="20%">
+<p align="right" heigth="20%">
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jeferson.silva9191&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=jeferson.silva9191&redirect=true)
 
-</div>
+</p>
 
 <img align="right" src="https://i.pinimg.com/originals/85/df/5e/85df5e8f0fd316258a6ae98ec9b82ea8.gif" width="25%" />
 

@@ -10,7 +10,6 @@
 ├─▣ ~/earth/south\ america/Brazil/SP/Sao\ Paulo
 │
 └───────────────────────────────▰▰▰
-
 </pre>
 
 ```javascript

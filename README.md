@@ -1,4 +1,4 @@
-# Hi, I'm Jef <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"> 
+# Hi, I'm Jef <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50"> 
 
 <div>
   

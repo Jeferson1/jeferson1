@@ -4,8 +4,6 @@
 
 <p>My professional journey has given me a complete vision for digital companies; Bringing together, experimentation and intrapreneurship, details and quality, analysis and understanding of problems, research and empathy. I believe that planned and plural teams built around perspective and with specific skills, bring solutions.</p>
 
-<p>With strategic thinking, I have analytical capacity focused on the client. Outcome-focused balance and user satisfaction for digital business growth. Thus, train emotional intelligence for teamwork, conflict resolution and solution development.</p>
-
 <img align="right" src="https://i.pinimg.com/originals/85/df/5e/85df5e8f0fd316258a6ae98ec9b82ea8.gif" width="27%" />
 
 <pre>

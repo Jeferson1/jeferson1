@@ -12,7 +12,6 @@ fast using scalable solutions.
 ├─▣ ~/Earth/South\ America/Brazil/SP/Sao\ Paulo
 │
 └───────────────────────────────▰▰▰
-   
 </pre>
 
 ```javascript

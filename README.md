@@ -1,4 +1,4 @@
-<h1 align="left"> Hello there, I'm Jef <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35"><h1>
+<h1 align="left"> Hello there, I'm Jef<h1> <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35">
 
 <p align="right" heigth="20%">
   
@@ -30,12 +30,6 @@
      }
    }
 ```
-
-<div>
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jeferson.silva9191&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=jeferson.silva9191&redirect=true)
-
-</div>
 
 ### Would you like to find me?
 

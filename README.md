@@ -31,8 +31,8 @@ fast using scalable solutions.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jefersonsilva01/)
 
-<div align="right">
+#
+#
    
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jeferson.silva9191&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=jeferson.silva9191&redirect=true)
 
-</div>   

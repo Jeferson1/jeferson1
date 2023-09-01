@@ -6,7 +6,7 @@
 
 <h1 align="left">Hello there, I'm Jef</h1> <img align="left" img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35">
 
-<img align="right" src="https://i.pinimg.com/originals/85/df/5e/85df5e8f0fd316258a6ae98ec9b82ea8.gif" width="25%" />
+<p><img align="right" src="https://i.pinimg.com/originals/85/df/5e/85df5e8f0fd316258a6ae98ec9b82ea8.gif" width="25%" /></p>
 
 <pre>
    

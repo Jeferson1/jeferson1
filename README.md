@@ -1,5 +1,5 @@
 
-<div display="inline" align="right">
+<div display="flex">
    
 <strong align="left" font-size="24px" display="inline-block"> Hi, I'm Jef :wave: </strong>
 

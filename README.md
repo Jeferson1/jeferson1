@@ -1,7 +1,5 @@
 # Hello there, I'm Jef <img width="35" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif">
 
-<p>I am a technology professional with nine years of experience in the area and I believe that the ability to build interpersonal relationships, through active listening, together with problem solving with productivity, promotes impact in organizations.</p>
-
 <img align="right" src="https://i.pinimg.com/originals/85/df/5e/85df5e8f0fd316258a6ae98ec9b82ea8.gif" width="27%" />
 
 <pre>

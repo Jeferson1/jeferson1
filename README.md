@@ -27,7 +27,7 @@ fast using scalable solutions.
    }
 ```
 
-<div align="right" heigth="30%">
+<div align="right" width="30%">
    
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jeferson.silva9191&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=jeferson.silva9191&redirect=true)   
 

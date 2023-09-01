@@ -1,6 +1,6 @@
 # Hello there, I'm Jef <img width="35" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif">
 
-<img align="right" src="https://i.pinimg.com/originals/85/df/5e/85df5e8f0fd316258a6ae98ec9b82ea8.gif" width="30%" />
+<img align="right" src="https://i.pinimg.com/originals/85/df/5e/85df5e8f0fd316258a6ae98ec9b82ea8.gif" width="28%" />
 
 <pre>
 

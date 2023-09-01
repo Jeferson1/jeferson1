@@ -1,7 +1,5 @@
-# Hi, I'm Jef :wave:
+# Hi, I'm Jef :wave: <div align="right">
 
-<div align="right">
-   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jeferson.silva9191&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=jeferson.silva9191&redirect=true)
    
 </div>

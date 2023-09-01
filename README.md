@@ -21,10 +21,10 @@
 </pre>
 
 ```javascript
-   class CurrentLearning {
+   class CurrentProgramming {
      const myTools = {
        "ProgramingLanguages": { "Javascript", "NodeJS" },
-       "OtherLanguages": { "HTML", "CSS", "Json", "Markdown" },
+       "OtherLanguages": { "React", "NextJS", "HTML", "CSS", "Json", "Markdown" },
        "Database": { "Firebase", "Sqlite", "MySql", "PostgreSQL", "MongoDB", "Redis" },
        "Editors": { "Vscode" },
        "Platforms": { "GNU/Linux" },

@@ -15,44 +15,14 @@ fast using scalable solutions.
 </pre>
 
 ```javascript
-   class CurrentProgramming extend Me {
+   class CurrentProgramming extends Me {
      const myTools = {
-       "ProgramingLanguages": {
-         "Javascript",
-         "NodeJS"
-        },
-
-       "OtherLanguages": {
-         "React",
-         "NextJS",
-         "HTML",
-         "CSS",
-         "Json",
-         "Markdown"
-        },
-
-       "Database": {
-         "Firebase",
-         "Sqlite",
-         "MySql",
-         "PostgreSQL",
-         "MongoDB",
-         "Redis"
-        },
-
-       "Editors": {
-         "Vscode"
-        },
-
-       "Platforms": {
-         "GNU/Linux"
-        },
-
-       "OtherTools": {
-         "Git",
-         "Github",
-         "Figma"
-        }
+       "ProgramingLanguages": { "Javascript", "NodeJS" },
+       "OtherLanguages": { "React", "NextJS", "HTML", "CSS", "Json", "Markdown" },
+       "Database": { "Firebase", "Sqlite", "MySql", "PostgreSQL", "MongoDB", "Redis" },
+       "Editors": { "Vscode" },
+       "Platforms": { "GNU/Linux" },
+       "OtherTools": { "Git", "Github", "Figma" }
      }
    }
 ```

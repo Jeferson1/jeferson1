@@ -1,4 +1,4 @@
-<strong font-size="24px" display="inline-block"> Hi, I'm Jef :wave: </strong>
+<strong align="left" font-size="24px" display="inline-block"> Hi, I'm Jef :wave: </strong>
 
 <p display="inline-block" align="right">
 

@@ -33,6 +33,7 @@ fast using scalable solutions.
 <div align="right">
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](jeferson.s.silva1@gmail.com)
+
 </div>
 
 #

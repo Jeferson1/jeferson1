@@ -13,7 +13,7 @@ fast using scalable solutions.
 └───────────────────────────────▰▰▰
 </pre>
 
-```javascript
+```js
    class CurrentProgramming extends Me {
      const myTools = {
        "ProgramingLanguages": { "Javascript", "NodeJS" },

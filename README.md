@@ -31,6 +31,7 @@ fast using scalable solutions.
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jefersonsilva01/)
 
 <div align="right">
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](jeferson.s.silva1@gmail.com)
 </div>
 

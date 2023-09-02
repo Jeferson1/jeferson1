@@ -18,7 +18,7 @@ fast using scalable solutions.
      const myTools = {
        "ProgramingLanguages": { "Javascript", "NodeJS" },
        "OtherLanguages": { "React", "NextJS", "HTML", "CSS", "Json", "Markdown" },
-       "Database": { "Firebase", "Sqlite", "MySql", "PostgreSQL", "MongoDB", "Redis" },
+       "Database": { "Sqlite", "MySql", "PostgreSQL", "MongoDB", "Redis" },
        "Editors": { "Vscode" },
        "Platforms": { "GNU/Linux" },
        "OtherTools": { "Git", "Github", "Figma" }

@@ -8,7 +8,7 @@ fast using scalable solutions.
   
 ┌──┤ DIRECTORY ├─────---────▰▰▰
 │
-├─▣ ~/Solar\ System/Earth/South\ America/Brazil/SP/Sao\ Paulo
+├─▣ ~/Solar\ System/Earth/South\ America/Brazil/SP/Sao\ Paulo/
 │
 └───────────────────────────────▰▰▰
 </pre>

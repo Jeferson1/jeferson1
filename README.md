@@ -19,12 +19,12 @@ fast using scalable solutions.
 ```js
    class CurrentProgramming extends Me {
      const myTools = {
-       "ProgramingLanguages": { "Javascript", "NodeJS" },
-       "OtherLanguages": { "React", "NextJS", "HTML", "CSS", "Json", "Markdown" },
-       "Database": { "Sqlite", "MySql", "PostgreSQL", "MongoDB", "Redis" },
-       "Editors": { "Vscode" },
-       "Platforms": { "GNU/Linux" },
-       "OtherTools": { "Git", "Github", "Figma" }
+       "ProgramingLanguages": [ "Javascript", "NodeJS" ],
+       "OtherLanguages": [ "React", "NextJS", "HTML", "CSS", "Json", "Markdown" ],
+       "Database": [ "Sqlite", "MySql", "PostgreSQL", "MongoDB", "Redis" ],
+       "Editors": [ "Vscode" ],
+       "Platforms": [ "GNU/Linux" ],
+       "OtherTools": [ "Git", "Github", "Figma" ]
      }
    }
 ```

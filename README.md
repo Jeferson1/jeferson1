@@ -4,9 +4,8 @@
 
 <pre>
 
-I work as a software developer to help companies to grow up 
-fast using scalable solutions.
-   
+### Would you like to find me? <img width="40" src="./assets/68747470733a2f2f656d2d636f6e74656e742e7a6f626a2e6e65742f736f757263652f6a6f79706978656c732d616e696d6174696f6e732f3336362f666c79696e672d7361756365725f31663666382e676966.gif">
+  
 ┌──┤ DIRECTORY ├─────---────▰▰▰
 │
 ├─▣ ~/Solar\ System/Earth/South\ America/Brazil/SP/Sao\ Paulo
@@ -27,7 +26,8 @@ fast using scalable solutions.
    }
 ```
 
-## Would you like to find me? <img width="40" src="./assets/68747470733a2f2f656d2d636f6e74656e742e7a6f626a2e6e65742f736f757263652f6a6f79706978656c732d616e696d6174696f6e732f3336362f666c79696e672d7361756365725f31663666382e676966.gif">
+## I work as a software developer to help companies to grow up 
+## fast using scalable solutions.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jefersonsilva01/)
 

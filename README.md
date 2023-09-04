@@ -6,7 +6,7 @@
 <img align="right" src="./assets/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38352f64662f35652f38356466356538663066643331363235386136616539386563396238326561382e676966.gif" width="27%" />
 
 <pre>
-⚡️ I work as a software developer to help companies to grow up 
+👾 I work as a software developer to help companies to grow up 
 fast using scalable solutions.
   
 ┌──┤ DIRECTORY ├─────---────▰▰▰

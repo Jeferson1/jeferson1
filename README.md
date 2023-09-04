@@ -36,9 +36,7 @@ fast using scalable solutions.
     <img align="center" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">
   </a> <a href="https://www.linkedin.com/in/jefersonsilva01/" target="_blank" alt="https://www.linkedin.com/in/jefersonsilva01/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
-  </a> <a href="tel:+5511964780592" target="_blank" alt="5511964780592">
-    <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white">
-  </a> 
+  </a>
 </p>
 
 ### Now playing 🎧

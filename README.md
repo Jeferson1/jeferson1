@@ -32,10 +32,10 @@ fast using scalable solutions.
 ## Would you like to find me? <img width="40" src="./assets/68747470733a2f2f656d2d636f6e74656e742e7a6f626a2e6e65742f736f757263652f6a6f79706978656c732d616e696d6174696f6e732f3336362f666c79696e672d7361756365725f31663666382e676966.gif">
 
 <p align="left">
-  <a href="mailto:jeferson.s.silva1@gmail.com" target="_blank" alt="jeferson.s.silva1@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">
-  </a> <a href="https://www.linkedin.com/in/jefersonsilva01/" target="_blank" alt="https://www.linkedin.com/in/jefersonsilva01/">
+   <a href="https://www.linkedin.com/in/jefersonsilva01/" target="_blank" alt="https://www.linkedin.com/in/jefersonsilva01/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
+  </a> <a href="mailto:jeferson.s.silva1@gmail.com" target="_blank" alt="jeferson.s.silva1@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
 </p>
 

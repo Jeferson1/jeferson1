@@ -44,5 +44,3 @@ fast using scalable solutions.
 ### Now playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jeferson.silva9191&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=jeferson.silva9191&redirect=true)
-
-<img align="right" src="https://komarev.com/ghpvc/?username=jefersonsilva01&label=Profile%20views&color=b40e7f&style=flat" alt="jefersonsilva01" />

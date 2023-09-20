@@ -29,9 +29,9 @@ fast using scalable solutions.
    }
 ```
 
-<p style="display: inline; font-size: 24px; font-weight: bold">Would you like to find me?</p> <img width="40" src="./assets/ufo.gif">
+## Would you like to find me? 👋
 
-<p align="left" style="margin-top: 10px; margin-bottom: 30px;">
+<p align="left">
    <a href="https://www.linkedin.com/in/jefersonsilva01/" target="_blank" alt="https://www.linkedin.com/in/jefersonsilva01/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
   </a> <a href="mailto:jeferson.s.silva1@gmail.com" target="_blank" alt="jeferson.s.silva1@gmail.com">

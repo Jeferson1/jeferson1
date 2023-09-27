@@ -29,7 +29,7 @@ fast using scalable solutions.
    }
 ```
 
-## Would you like to find me? 👋
+## Would you like to find me? 🛸
 
 <p align="left">
    <a href="https://www.linkedin.com/in/jefersonsilva01/" target="_blank" alt="https://www.linkedin.com/in/jefersonsilva01/">

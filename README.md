@@ -33,10 +33,10 @@ fast using scalable solutions.
 
 <p align="left">
    <a href="https://www.linkedin.com/in/jefersonsilva01/" target="_blank" alt="https://www.linkedin.com/in/jefersonsilva01/">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-FFE200.svg?style=for-the-badge&logo=LinkedIn&logoColor=black">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-2F3134.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/jefersonsilva01/" target="_blank" alt="https://www.linkedin.com/in/jefersonsilva01/">
-   <img align="center" src="https://img.shields.io/badge/Gmail-FFE200.svg?style=for-the-badge&logo=LinkedIn&logoColor=black">
+  <a href="mailto:jeferson.s.silva1@gmail.com" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/Gmail-2F3134.svg?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
 </p>
 

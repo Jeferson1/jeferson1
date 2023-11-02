@@ -6,14 +6,14 @@
 <img align="right" src="./assets/computer.gif" width="27%" />
 
 <pre>
-👾 I work as a software developer to help companies to grow up 
+👾 I work as a software developer to help companies to grow up
 fast using scalable solutions.
   
 ┌──┤ DIRECTORY ├─────---────▰▰▰
 │
 ├─▣ ~/Solar\ System/Earth/South\ America/Brazil/SP/Sao\ Paulo/
 │
-└───────────────────────────────▰▰▰ 
+└───────────────────────────────▰▰▰
 </pre>
 
 ```js
@@ -33,9 +33,10 @@ fast using scalable solutions.
 
 <p align="left">
    <a href="https://www.linkedin.com/in/jefersonsilva01/" target="_blank" alt="https://www.linkedin.com/in/jefersonsilva01/">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
-  </a> <a href="mailto:jeferson.s.silva1@gmail.com" target="_blank" alt="jeferson.s.silva1@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-FFE200.svg?style=for-the-badge&logo=LinkedIn&logoColor=black">
+  </a>
+  <a href="https://www.linkedin.com/in/jefersonsilva01/" target="_blank" alt="https://www.linkedin.com/in/jefersonsilva01/">
+   <img align="center" src="https://img.shields.io/badge/Gmail-FFE200.svg?style=for-the-badge&logo=LinkedIn&logoColor=black">
   </a>
 </p>
 

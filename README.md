@@ -17,16 +17,26 @@ fast using scalable solutions.
 </pre>
 
 ```js
-   class CurrentProgramming extends Me {
-     const myTools = {
-       "ProgramingLanguages": [ "Javascript", "NodeJS", "React", "NextJS", ],
-       "OtherLanguages": [ "HTML", "CSS", "Json", "Markdown" ],
-       "Database": [ "Sqlite", "MySql", "PostgreSQL", "MongoDB", "Redis" ],
-       "Editors": [ "Vscode" ],
-       "Platforms": [ "GNU/Linux", "Ubuntu" ],
-       "OtherTools": [ "Git", "Github", "Figma" ]
-     }
-   }
+
+  jefersonsilva01@github
+  -----------------------
+  OS: GNU/Linux Ubuntu 22.04, Android
+  Uptime: 32 Years
+  Editors: Vscode
+
+  ProgramingLanguages: [ "Javascript", "NodeJS", "React", "NextJS", ]
+  OtherLanguages: [ "HTML", "CSS", "Json", "Markdown" ]
+  Databases: [ "Sqlite", "MySql", "PostgreSQL", "MongoDB", "Redis" ]
+
+  OtherTools: [ "Git", "Github", "Figma" ]
+
+  HobbiesHardware: Play Bass, Skateboarding
+
+  Contact:
+  -----------------------
+  Email: jeferson.s.silva1@gmail.com
+  LinkedIn: jefersonsilva01
+
 ```
 
 ## Would you like to find me? <img src="./assets/ufo.gif" width="5%" />

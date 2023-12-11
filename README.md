@@ -18,24 +18,24 @@ fast using scalable solutions.
 
 ```bash
 
-  jefersonsilva01@github
-  -----------------------
-  OS: GNU/Linux Ubuntu 22.04, Android
-  Uptime: 32 Years
-  Editors: Vscode
+jefersonsilva01@github
+-----------------------
+OS: GNU/Linux Ubuntu 22.04, Android
+Uptime: 32 Years
+Editors: Vscode
 
-  ProgramingLanguages: [ "Javascript", "NodeJS", "React", "NextJS", ]
-  OtherLanguages: [ "HTML", "CSS", "Json", "Markdown" ]
-  Databases: [ "Sqlite", "MySql", "PostgreSQL", "MongoDB", "Redis" ]
+ProgramingLanguages: [ "Javascript", "NodeJS", "React", "NextJS", ]
+OtherLanguages: [ "HTML", "CSS", "Json", "Markdown" ]
+Databases: [ "Sqlite", "MySql", "PostgreSQL", "MongoDB", "Redis" ]
 
-  OtherTools: [ "Git", "Github", "Figma" ]
+OtherTools: [ "Git", "Github", "Figma" ]
 
-  HobbiesHardware: Play Bass, Skateboarding
+HobbiesHardware: Play Bass, Skateboarding
 
-  Contact:
-  -----------------------
-  Email: jeferson.s.silva1@gmail.com
-  LinkedIn: jefersonsilva01
+Contact:
+-----------------------
+Email: jeferson.s.silva1@gmail.com
+LinkedIn: jefersonsilva01
 
 ```
 

@@ -16,7 +16,7 @@ fast using scalable solutions.
 └───────────────────────────────▰▰▰
 </pre>
 
-```js
+```bash
 
   jefersonsilva01@github
   -----------------------

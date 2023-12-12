@@ -22,7 +22,7 @@ jefersonsilva01@github
 -----------------------
 OS: GNU/Linux Ubuntu 22.04, Android
 Uptime: 32 Years
-Editors: Vscode
+Editors: VS Code
 
 ProgramingLanguages: [ "Javascript", "NodeJS", "React", "NextJS", ]
 OtherLanguages: [ "HTML", "CSS", "Json", "Markdown" ]

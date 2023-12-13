@@ -20,7 +20,7 @@ fast using scalable solutions.
 
 jefersonsilva01@github
 -----------------------
-OS: GNU/Linux Ubuntu 22.04, Android
+OS: GNU/Linux Ubuntu 22.04
 Uptime: 32 Years
 Editors: VS Code
 

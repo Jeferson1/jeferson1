@@ -20,9 +20,9 @@ fast using scalable solutions.
 
 jefersonsilva01@github
 -----------------------
+Uptime: 32 Years
 OS: GNU/Linux Ubuntu 22.04
 Shell: zsh
-Uptime: 32 Years
 Editors: VS Code
 
 ProgramingLanguages: [ "Javascript", "NodeJS", "React", "NextJS", ]

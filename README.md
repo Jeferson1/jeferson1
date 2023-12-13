@@ -21,6 +21,7 @@ fast using scalable solutions.
 jefersonsilva01@github
 -----------------------
 OS: GNU/Linux Ubuntu 22.04
+Shell: zsh
 Uptime: 32 Years
 Editors: VS Code
 

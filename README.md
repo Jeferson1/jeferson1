@@ -25,7 +25,7 @@ OS: GNU/Linux Ubuntu 22.04
 Shell: zsh
 Editors: VS Code
 
-ProgramingLanguages: [ "Javascript", "NodeJS", "React", "NextJS", ]
+ProgramingLanguages: [ "Javascript", "NodeJS", "React", "NextJS" ]
 OtherLanguages: [ "HTML", "CSS", "Json", "Markdown" ]
 Databases: [ "Sqlite", "MySql", "PostgreSQL", "MongoDB", "Redis" ]
 

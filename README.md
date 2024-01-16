@@ -32,6 +32,7 @@ Databases: [ "Sqlite", "MySql", "PostgreSQL", "MongoDB", "Redis" ]
 OtherTools: [ "Git", "Github", "Figma" ]
 
 HobbiesHardware: Play Bass, Skateboarding
+HobbiesSoftware: Reading comics e books, Learning Programing
 
 Contact:
 -----------------------

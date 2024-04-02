@@ -3,7 +3,7 @@
 █▀█ ██▄ █▄▄ █▄▄ █▄█   ░█░ █▀█ ██▄ █▀▄ ██▄ █   █ ░ █░▀░█   █▄█ ██▄ █▀░   
 </pre>
 
-<img align="right" src="./assets/computer.gif" width="27%" />
+<img align="right" src="./assets/computer.gif" width="25.5%"/>
 
 <pre>
 👾 I work as a software developer to help companies to grow up
@@ -25,9 +25,9 @@ OS: GNU/Linux Ubuntu 22.04
 Shell: zsh
 Editors: VS Code
 
-ProgramingLanguages: [ "Javascript", "NodeJS", "React", "NextJS" ]
+ProgramingLanguages: [ "Javascript", "NodeJS", "Express" ]
 OtherLanguages: [ "HTML", "CSS", "JSON", "Markdown" ]
-Databases: [ "Sqlite", "MySql", "PostgreSQL", "MongoDB", "Redis" ]
+Databases: [ "MongoDB" ]
 
 OtherTools: [ "GIT", "Github", "Figma" ]
 

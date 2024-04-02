@@ -3,7 +3,7 @@
 █▀█ ██▄ █▄▄ █▄▄ █▄█   ░█░ █▀█ ██▄ █▀▄ ██▄ █   █ ░ █░▀░█   █▄█ ██▄ █▀░   
 </pre>
 
-<img align="right" src="./assets/computer.gif" width="26.5%"/>
+<img align="right" src="./assets/computer.gif" width="27%"/>
 
 <pre>
 👾 I work as a software developer to help companies to grow up

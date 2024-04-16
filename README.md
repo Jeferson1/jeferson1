@@ -17,9 +17,8 @@ fast using scalable solutions.
 </pre>
 
 ```bash
-
 jefersonsilva01@github
------------------------
+------------------------------------------------------------
 Uptime: 32 Years
 OS: GNU/Linux Ubuntu 22.04
 Shell: zsh
@@ -27,18 +26,17 @@ Editors: VS Code
 
 ProgramingLanguages: [ "Javascript", "NodeJS", "Express" ]
 OtherLanguages: [ "HTML", "CSS", "JSON", "Markdown" ]
-Databases: [ "MongoDB" ]
+Databases: [ "MongoDB", "MySQL, PostgreSQL" ]
 
 OtherTools: [ "GIT", "Github", "Figma" ]
 
 HobbiesHardware: Play Bass, Skateboarding
-HobbiesSoftware: Reading comics e books, Learning Programing
+HobbiesSoftware: Reading comics & books, Learning Programing
 
 Contact:
------------------------
+------------------------------------------------------------
 Email: jeferson.s.silva1@gmail.com
 LinkedIn: jefersonsilva01
-
 ```
 
 ## Would you like to find me? <img src="./assets/ufo.gif" width="5%" />

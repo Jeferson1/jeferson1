@@ -18,7 +18,7 @@ fast using scalable solutions.
 
 ```bash
 jefersonsilva01@github
-------------------------------------------------------------
+--------------------------------------------------------------------
 Uptime: 32 Years
 OS: GNU/Linux Ubuntu 22.04
 Shell: zsh
@@ -34,7 +34,7 @@ HobbiesHardware: Play Bass, Skateboarding
 HobbiesSoftware: Reading comics & books, Learning Programing
 
 Contact:
-------------------------------------------------------------
+----------------------------------------------------------------------
 Email: jeferson.s.silva1@gmail.com
 LinkedIn: jefersonsilva01
 ```

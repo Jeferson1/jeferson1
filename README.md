@@ -25,10 +25,10 @@ Shell: zsh
 Editors: VS Code
 
 ProgramingLanguages: [ "Javascript", "JQuery", "NodeJS", "Express" ]
-OtherLanguages: [ "HTML", "CSS", "JSON", "Markdown" ]
+OtherLanguages: [ "HTML", "CSS", "Bootstrap", "JSON", "Markdown" ]
 Databases: [ "MongoDB", "MySQL, PostgreSQL" ]
 
-OtherTools: [ "GIT", "Github", "Figma" ]
+OtherTools: [ "Git", "Github", "Figma" ]
 
 HobbiesHardware: Play Bass, Skateboarding
 HobbiesSoftware: Reading comics & books, Learning Programing

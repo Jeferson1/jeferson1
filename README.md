@@ -30,8 +30,8 @@ Databases: [ "MongoDB", "MySQL, PostgreSQL" ]
 
 OtherTools: [ "Git", "Github", "Figma" ]
 
-HobbiesHardware: Play Bass, Skateboarding
-HobbiesSoftware: Reading comics & books, Learning Programing
+HobbiesHardware: Play Bass Guitar
+HobbiesSoftware: Reading Books
 
 Contact:
 ----------------------------------------------------------------------

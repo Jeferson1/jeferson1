@@ -18,14 +18,21 @@ fast using scalable solutions.
 
 ```bash
 jefersonsilva01@github
---------------------------------------------------------------------
+---------------------------------------------
 Uptime: 32 Years
 OS: GNU/Linux Ubuntu 22.04
 Shell: zsh
 Editors: VS Code
 
-ProgramingLanguages: [ "Javascript", "JQuery", "NodeJS", "Express", "React" ]
-OtherLanguages: [ "HTML", "CSS", "Bootstrap", "Bulma", "Styled Components", "JSON", "Markdown" ]
+MainStak: [
+  "HTML", "CSS","Javascript",
+  "JQuery", "React",
+  "NodeJS", "Express",
+  "JSON",
+  "Bootstrap", "Bulma", "Styled Components",
+  "Markdown"
+]
+
 Databases: [ "MongoDB", "MySQL, PostgreSQL" ]
 
 OtherTools: [ "Git", "Github", "Figma" ]
@@ -34,7 +41,7 @@ HobbiesHardware: Play Bass Guitar
 HobbiesSoftware: Reading Books
 
 Contact:
-----------------------------------------------------------------------
+---------------------------------------------
 Email: jeferson.s.silva1@gmail.com
 LinkedIn: jefersonsilva01
 ```

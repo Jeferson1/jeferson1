@@ -24,8 +24,8 @@ OS: GNU/Linux Ubuntu 22.04
 Shell: zsh
 Editors: VS Code
 
-ProgramingLanguages: [ "Javascript", "JQuery", "NodeJS", "Express" ]
-OtherLanguages: [ "HTML", "CSS", "Bootstrap", "JSON", "Markdown" ]
+ProgramingLanguages: [ "Javascript", "JQuery", "NodeJS", "Express", "React" ]
+OtherLanguages: [ "HTML", "CSS", "Bootstrap", "Bulma", "Styled Components", "JSON", "Markdown" ]
 Databases: [ "MongoDB", "MySQL, PostgreSQL" ]
 
 OtherTools: [ "Git", "Github", "Figma" ]

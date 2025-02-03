@@ -19,7 +19,7 @@ fast using scalable solutions.
 ```bash
 jefersonsilva01@github
 ---------------------------------------------
-Uptime: 32 Years
+Uptime: 33 Years
 OS: GNU/Linux Ubuntu 22.04
 Shell: zsh
 Editors: VS Code
@@ -48,8 +48,7 @@ LinkedIn: jefersonsilva01
 
 ## Would you like to find me? <img src="./assets/ufo.gif" width="5%" />
 
-<a href="https://www.linkedin.com/in/jefersonsilva01/" target="_blank" alt="https://www.linkedin.com/in/jefersonsilva01/"><img align="center" src="https://img.shields.io/badge/LinkedIn-2F3134.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
-<a href="mailto:jeferson.s.silva1@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-2F3134.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/jefersonsilva01/" target="_blank" alt="https://www.linkedin.com/in/jefersonsilva01/"><img align="center" src="https://img.shields.io/badge/LinkedIn-2F3134.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a> <a href="mailto:jeferson.s.silva1@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-2F3134.svg?style=for-the-badge&&logoColor=white"></a>
 
 ### Now playing 🎧
 
